@@ -7,12 +7,13 @@ I'm a hacker, maker and mender of things. I love an interesting challenge and ca
 
 ## More About Me
 
-- 🔭 I’m currently working on building SQL queries for to interface Student Information Systems with Learning Management Systems
+- 🔭 I’m currently working on Learning about AI and ML at Breda University of Applied Sciences
 - 🌱 I’m currently learning SQL
 - 👯 I’m looking to collaborate on [PaperPi](https://github.com/txoof/PaperPi), a quiet internet radio
 - 📫 How to reach me:
   -  BUAS: 245284@buas.nl 
   -  private: aaron.ciuffo@gmail.com
+  -  [Primary GitHub Account](https://github.com/txoof)
   -  [Stack OverFlow](https://stackoverflow.com/users/5530152/aaron-ciuffo)
   -  [LinkedIn](https://www.linkedin.com/in/aaron-ciuffo-a730a7107/)
 - 📜[My Resume of Projects](https://github.com/txoof/resume)
